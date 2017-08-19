@@ -5,4 +5,4 @@
 * airplane war
 * airplane war2
 * bounce ball
-* flappy bird(/flappy_bird)
+* flappy bird(./flappy_bird)
