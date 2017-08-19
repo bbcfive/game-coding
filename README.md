@@ -1,8 +1,8 @@
 # gaming-coding
-##coding for classic games
+*coding for classic games*
 
-`1.classic games`
-* [airplane war](/airplane war)
-* [airplane war 2](/airplane war 2)
-* [bounce ball](/bounce ball)
+`classic games`
+* [airplane war](/airplane_war)
+* [airplane war 2](/airplane_war_2)
+* [bounce ball](/bounce_ball)
 * [flappy bird](/flappy_bird)
