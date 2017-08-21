@@ -2,11 +2,11 @@
 *coding for classic games and little console applications*
 
 `classic games`
-* [airplane_war](/airplane_war)
-* [airplane_war_2](/airplane_war_2)
-* [bounce_ball](/bounce_ball)
-* [flappy_bird](/flappy_bird)
+* [airplane war](./airplane_war)
+* [airplane war 2](./airplane_war_2)
+* [bounce ball](./bounce_ball)
+* [flappy bird](./flappy_bird)
 * [cells](/cells) 
 
 `little console applications`
-* [a_cool_watch](/a_cool_watch)
+* [a cool watch](./a_cool_watch)
