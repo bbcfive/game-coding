@@ -1,5 +1,7 @@
 # gaming-coding
 *coding for classic games*
+#also
+*a little console application*
 
 `classic games`
 * [airplane war](/airplane_war)
