@@ -1,7 +1,5 @@
 # gaming-coding
-*coding for classic games*
-#also
-*a little console application*
+*coding for classic games and little console applications*
 
 `classic games`
 * [airplane war](/airplane_war)
@@ -9,3 +7,6 @@
 * [bounce ball](/bounce_ball)
 * [flappy bird](/flappy_bird)
 * [cells](/cells) 
+
+`little console applications`
+* [a cool watch](/a_cool_watch)
